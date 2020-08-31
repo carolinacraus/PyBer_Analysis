@@ -13,6 +13,8 @@ Analyze & showcase relationships of large ride share data files to create an ove
 - The average fare per ride and average fare for driver are the most expensive in Rural areas and cheaper in Urban cities
 - Correlation between average fare & total rides for city types: There is an inverse relationship between average fares and total rides for city types.
 
+![Resample DataFrame Plot](analysis/pyber_challenge.png)
+
 ### Summary of plotted fares for city type over time 
 ![Fares Scatter Plot](analysis/Fig1.png)
 
